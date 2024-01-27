@@ -54,6 +54,7 @@ add = a + b
 print(add)
 print(y)
 
+x = 6
 
 a = 5
 b = 6
