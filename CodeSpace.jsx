@@ -1,11 +1,24 @@
 import React from 'react'
+import Navbar from './Navbar.jsx'
+import Footer from './Footer.jsx'
+import Cards from './Cards.jsx'
+import Sidebar from './Sidebar.jsx'
 
-function CodeSpace() {
+
+export const CodeSpace = () => {
     return (
-        <div>
-            <h1>Arryan jain</h1>
-        </div>
+        <>
+            {/* Components : */}
+            {/* There are some components of website which can be edited easily . Thse coponenets can be edited easily . */}
+            {/* These components doesnt use the Tailwindcss framework */}
+            {/* All components are listed below */}
+            <Navbar />
+            <Footer />
+            <Cards />
+            <Sidebar />
+
+
+        </>
     )
 }
 
-export default CodeSpace
