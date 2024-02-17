@@ -4,10 +4,10 @@
 
 
 🥏**Replit :**
-[Replit](https://replit.com/@KinshukTheAlpha) 
+[**`Replit`**](https://replit.com/@KinshukTheAlpha)
 
 🥏**LinkedIn :**
-[LinkedIn](https://www.linkedin.com/in/kinshuk-j-1966981b4/)
+[**`LinkedIn`**](https://www.linkedin.com/in/kinshuk-j-1966981b4/)
 
 
 ## Best Hooks to use in react :
